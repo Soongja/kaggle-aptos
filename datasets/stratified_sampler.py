@@ -1,3 +1,8 @@
+"""
+Reference:
+- https://github.com/ildoonet/ai-starthon-2019/blob/master/cls4%2B7%2B8%2B9/samplers/stratified_sampler.py
+"""
+
 import random
 from collections import defaultdict
 
